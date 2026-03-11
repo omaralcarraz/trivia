@@ -19,7 +19,7 @@ if pregunta2 == respuesta_correcta2:
     print("respuesta correcta!!")
     puntos+=1
 else:
-    print(f"respuesta incorrecta, la respuesta era {respuesta_correcta1}")
+    print(f"respuesta incorrecta, la respuesta era {respuesta_correcta2}")
     puntos=puntos
 print(f"tus puntos acumulados son {puntos}")
 
